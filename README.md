@@ -15,3 +15,4 @@ Soal no 2 referensi dari :
 
                            http://belajar-coding-web.blogspot.com/2015/03/cek-validasi-username-pakai-regex.html
  
+                           https://stackoverflow.com/questions/13970412/php-regex-for-a-string-of-special-characters
