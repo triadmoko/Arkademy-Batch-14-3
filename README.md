@@ -17,6 +17,6 @@ Soal no 2 referensi dari :
  
                            https://stackoverflow.com/questions/13970412/php-regex-for-a-string-of-special-characters
                            
-Soal no 3 Referensi dari :
+Soal no 5 Referensi dari :
                 
                            http://catchupcoding.blogspot.com/2014/10/menampilkan-dan-menjumlahkan-bilangan.html
